@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Jq/T1GYmlGzEgf3sIl5pNVuKNcfQ05eDNxg9yCvH3thZtEYSG/BGQrWLaR2789FHd+h9SL7mapfuGWyRHek+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\P2049\\source\\repos\\VeriMadenciligi\\VeriMadenciligi\\VeriMadenciligi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\P2049\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

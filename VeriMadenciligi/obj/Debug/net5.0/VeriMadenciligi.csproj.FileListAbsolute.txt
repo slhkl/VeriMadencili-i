@@ -1,0 +1,17 @@
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\bin\Debug\net5.0\VeriMadenciligi.exe
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\bin\Debug\net5.0\VeriMadenciligi.deps.json
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\bin\Debug\net5.0\VeriMadenciligi.runtimeconfig.json
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\bin\Debug\net5.0\VeriMadenciligi.runtimeconfig.dev.json
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\bin\Debug\net5.0\VeriMadenciligi.dll
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\bin\Debug\net5.0\ref\VeriMadenciligi.dll
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\bin\Debug\net5.0\VeriMadenciligi.pdb
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\VeriMadenciligi.csproj.AssemblyReference.cache
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\VeriMadenciligi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\VeriMadenciligi.AssemblyInfoInputs.cache
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\VeriMadenciligi.AssemblyInfo.cs
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\VeriMadenciligi.csproj.CoreCompileInputs.cache
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\VeriMadenciligi.dll
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\ref\VeriMadenciligi.dll
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\VeriMadenciligi.pdb
+C:\Users\P2049\source\repos\VeriMadenciligi\VeriMadenciligi\obj\Debug\net5.0\VeriMadenciligi.genruntimeconfig.cache
